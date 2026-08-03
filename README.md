@@ -46,18 +46,6 @@ class Shanthi:
 
 </div>
 
-## 📈 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shanthisree&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanthisree&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shanthisree&theme=midnight-purple&hide_border=true" />
-
-</div>
 
 ## 🌱 Currently
 
