@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Hi,%20I'm%20Shanthi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=GenAI+%2F+Engineer;I+build+LLM+agents+%26+RAG+pipelines;ML+models+%2B+Python+cloud+engineering;Turning+conversations+into+structured+data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=GenAI Engineer;I+build+LLM+agents+%26+RAG+pipelines;ML+models+%2B+Python+cloud+engineering;Turning+conversations+into+structured+data" alt="Typing SVG" />
 
 <br/>
 
